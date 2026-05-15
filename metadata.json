@@ -1,6 +1,0 @@
-{
-  "name": "DMG Pharmaceuticals CRM",
-  "description": "A comprehensive pharmaceutical CRM dashboard for lead management, customer tracking, and sales activity monitoring.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": []
-}
